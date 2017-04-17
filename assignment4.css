@@ -96,3 +96,24 @@ input:-moz-placeholder {
   line-height: 45px;
   text-align: center;
 }
+.final_result {
+	padding: 10px;
+	font-family: 'Helvetica', sans-serif;
+	color: #333;
+}
+
+.final_result h2 {
+	font-size: 20px;
+  text-transform: uppercase;
+  font-style: Bold;
+  text-decoration: underline;
+}
+
+.final_result a {
+	color: #333;
+	text-decoration: underline;
+}
+
+.final_result a:hover {
+	color: red;
+}
